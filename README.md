@@ -1,8 +1,10 @@
 # Sales Performance Analysis for a Telecommunication Company
 
-### Project Overview
-
+## Project Overview
 This project aims to provide insights into the sales performance of a telecommunication company over the past years. By analyzing various aspects of the sales data, we seek to identify customer behavior, product popularity, and revenue trends.
+
+
+![SALES TREND OVER THE YEARS](https://github.com/promise-the-data-analsyt/Sales-Performance-Analysis-for-a-Telecommunication-Company/assets/169470196/8d27f9b4-2126-4bf8-b84d-3da517dbbe74)
 
 ### Tools
 
